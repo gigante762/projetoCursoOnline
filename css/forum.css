@@ -1,0 +1,45 @@
+.forum h2{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 42px;
+    margin-bottom: 50px;
+}
+
+.forum hr{
+    max-width: 60%;
+    margin: auto;
+    border: .8px solid white;
+    margin-bottom: 50px;
+}
+
+.question{
+    padding: 10px;
+    border-radius: 8px;
+    background: #1d1d1d ;
+    max-width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.question-resolved span{
+    margin-right: 5%;
+    color:#03da45;
+}
+.question-unresolved span{
+    margin-right: 5%;
+    color:#da0d03;
+}
+
+
+.question-title{
+    font-size: 18px;
+}
+
+.question div{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}

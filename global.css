@@ -1,0 +1,19 @@
+@import url("css/cursos-iniciantes.css");
+@import url("css/forum.css");
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background:  #121212;
+    color: #e1e1e1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
